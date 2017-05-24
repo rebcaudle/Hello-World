@@ -3,3 +3,8 @@ open . - opens the current file
 
 git add - is staging a file when you are ready for commit message
 git log - will show commit just made
+
+workspace - in your text editor
+index - stage files, caching
+local repo - the history of your project
+remote repo - shared copy (doesn’t have to be github), some remote server
