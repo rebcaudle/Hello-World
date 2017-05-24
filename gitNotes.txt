@@ -1,0 +1,5 @@
+open . - opens the current file
+
+
+git add - is staging a file when you are ready for commit message
+git log - will show commit just made
