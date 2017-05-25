@@ -8,3 +8,10 @@ workspace - in your text editor
 index - stage files, caching
 local repo - the history of your project
 remote repo - shared copy (doesn’t have to be github), some remote server
+
+
+BRANCHING
+-an idea to try out - exploration space
+
+checkout -b  create branch and switch in one move
+git branch - shows list of all branches
